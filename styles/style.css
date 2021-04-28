@@ -101,7 +101,7 @@
   margin: 0;
   line-height: 1.2;
   font-size: 18px;
-  font-style: normal;
+  font-weight: normal;
   color: #2f80ed;
 }
 
@@ -112,7 +112,6 @@
 }
 
 .two-columns__paragraph {
-  display: flex;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -215,7 +214,7 @@
 }
 
 .feynman__subtitle {
-  margin-top: 70px;
+  margin: 70px 0 0 0;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
