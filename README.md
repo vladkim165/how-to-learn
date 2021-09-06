@@ -16,4 +16,4 @@
 
 
 ### Ссылка на проект
-vladkim165.github.io/how-to-learn/
+https://vladkim165.github.io/how-to-learn/
